@@ -1,3 +1,4 @@
+//JOI 2014 P1 - Factories
 #include"factories.h"
 #include <bits/stdc++.h>
 using namespace std;
